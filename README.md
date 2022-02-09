@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebastianlolv
-- 👀 I’m interested in IaC and Cloud
+- 👀 I’m interested in IaC, DevOps and Cloud
 - 🌱 I’m currently learning Terraform
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebastianlolv
-- 👀 I’m interested in IaC, DevOps and Cloud
+- 👀 I’m interested in IaC, Kubernetes and Cloud
 - 🌱 I’m currently learning Terraform
 
 ![sebastianlolv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianlolv&count_private=true)

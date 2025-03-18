@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebastianlolv
-- 👀 I’m interested in IaC, Kubernetes and Cloud
-- 🌱 I’m currently learning Terraform
+- 👀 I’m interested in IaC, CI/CD, Kubernetes.
+- 🌱 I’m currently learning Golang and Kubernetes.
 
 ![sebastianlolv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianlolv&count_private=true)
 

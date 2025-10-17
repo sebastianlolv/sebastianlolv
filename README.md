@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Golang and Kubernetes.
 
 Certifications:
-- Certified Kubernetes Administrator
 - AZ-900
+- Certified Kubernetes Administrator
 
 ![sebastianlolv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianlolv&count_private=true)
 

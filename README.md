@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @sebastianlolv
 - 👀 I’m interested in IaC, CI/CD, Kubernetes.
 - 🌱 I’m currently learning Golang and Kubernetes.
-- 📰 I'm currently taking the CKA Certification.
+
+Certifications:
+- Certified Kubernetes Administrator
+- AZ-900
 
 ![sebastianlolv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianlolv&count_private=true)
 
